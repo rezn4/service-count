@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ServiceCount</string>
+    <string name="btn_service_off">OFF</string>
+    <string name="btn_service_on">ON</string>
+    <string name="date_not_available">Not Available</string>
+    <string name="toast_service_started">Сервис запущен</string>
+    <string name="toast_service_stopped">Сервис остановлен</string>
+</resources>
