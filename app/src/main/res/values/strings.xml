@@ -5,4 +5,6 @@
     <string name="date_not_available">Not Available</string>
     <string name="toast_service_started">Сервис запущен</string>
     <string name="toast_service_stopped">Сервис остановлен</string>
+    <string name="toast_service_already_running">Сервис уже запущен</string>
+    <string name="toast_service_isnt_started">Сервис не запущен</string>
 </resources>
